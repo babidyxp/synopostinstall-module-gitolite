@@ -6,6 +6,9 @@ Script d'installation de gitolite via ipkg sur un NAS Synology
 ## Description
 Ce script s'exécute en tant que module de synopostinstall (voir <http://github.com/Benoit-DunandLaisin/synopostinstall>)
 
+Pour fonctionner correctemennt, il est nécessaire de stocker dans le répertoire du module, la clé publique de l'administateur de gitolite.
+La clé doit se nommer gitolite.pub
+
 ## Liens sources
 Ce script a été créé à partir des guides ci-dessous:
 
